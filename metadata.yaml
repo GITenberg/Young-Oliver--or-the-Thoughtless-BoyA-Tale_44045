@@ -13,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44045#Young-Oliver--or-the-Thoughtless-BoyA-Tale
 gutenberg_issued: '2013-10-26'
 gutenberg_type: Text
 identifiers:
